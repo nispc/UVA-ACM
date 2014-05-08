@@ -2,7 +2,7 @@ Karpovich blocks
 ================
 
 The Problem
-===========
+--
 From the unit blocks of three kinds one creates a cube N×N×N (1< N<10). Some minutes later all the unit blocks of the same kind with common faces glue together. So three details appeared.
 
 Determine, if there is possible to separate all the details not destroying them.
