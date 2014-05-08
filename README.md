@@ -9,7 +9,7 @@ UVA-ACM
 |UVA10582|?|
 |UVA10666|The Eurocup is Here!|
 
-#Karpovich blocks
+#UVA10103: Karpovich blocks
 
 ##The Problem
 From the unit blocks of three kinds one creates a cube N×N×N (1< N<10). Some minutes later all the unit blocks of the same kind with common faces glue together. So three details appeared.
