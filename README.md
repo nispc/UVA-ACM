@@ -3,7 +3,7 @@ UVA-ACM
 |ID|Title|
 |--------|----------------|
 |[UVA10103](#uva10103-karpovich-blocks)|Karpovich blocks|
-|UVA10340|All in All|
+|[UVA10340](#all-in-all)|All in All|
 |UVA10343|Base64 Decoding|
 |UVA10552|?|
 |UVA10582|?|
@@ -49,29 +49,17 @@ RGB
 NO
 
 ##All in All
-
-Input: standard input
-
-Output: standard output
-
-Time Limit: 2 seconds
-
-Memory Limit: 32 MB
-
 You have devised a new encryption technique which encodes a message by inserting between its characters randomly generated strings in a clever way. Because of pending patent issues we will not discuss in detail how the strings are generated and inserted into the original message. To validate your method, however, it is necessary to write a program that checks if the message is really encoded in the final string.
 
 Given two strings s and t, you have to decide whether s is a subsequence of t, i.e. if you can remove characters from t such that the concatenation of the remaining characters is s.
 
 ###Input Specification
-
 The input contains several testcases. Each is specified by two strings s, t of alphanumeric ASCII characters separated by whitespace. Input is terminated by EOF.
 
 ###Output Specification
-
 For each test case output, if s is a subsequence of t.
 
 ###Sample Input
-
 sequence subsequence
 
 person compression
@@ -81,7 +69,6 @@ VERDI vivaVittorioEmanueleReDiItalia
 caseDoesMatter CaseDoesMatter
 
 ###Sample Output
-
 Yes
 
 No
