@@ -3,7 +3,7 @@ UVA-ACM
 |ID|Title|
 |--------|----------------|
 |[UVA10103](#uva10103-karpovich-blocks)|Karpovich blocks|
-|[UVA10340](#all-in-all)|All in All|
+|[UVA10340](#uva10340-all-in-all)|All in All|
 |UVA10343|Base64 Decoding|
 |UVA10552|?|
 |UVA10582|?|
